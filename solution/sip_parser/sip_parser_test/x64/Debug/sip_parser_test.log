@@ -1,0 +1,7 @@
+﻿  sipparser.c
+  sip_parser_test.c
+D:\program files\sip-parser-main\sip_parser_test.c(358,21): warning C4477: 'fprintf' : format string '%lu' requires an argument of type 'unsigned long', but variadic argument 2 has type 'size_t'
+D:\program files\sip-parser-main\sip_parser_test.c(358,21): message : consider using '%zu' in the format string
+D:\program files\sip-parser-main\sip_parser_test.c(254,1): warning C4267: 'initializing': conversion from 'size_t' to 'long', possible loss of data
+  Generating Code...
+  sip_parser_test.vcxproj -> D:\program files\sip-parser-main\solution\sip_parser\x64\Debug\sip_parser_test.exe
